@@ -1,0 +1,19 @@
+{
+    "name": "harmony-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "jiti ./index.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@clack/prompts": "^0.7.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.30",
+        "jiti": "^1.21.0"
+    }
+}
